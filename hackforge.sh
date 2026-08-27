@@ -11,7 +11,7 @@ echo -e '\033[31;40;1m
 
   Project: HackForge
   Author: Rasagna
-  github: https://github.com/YourGitHub/HackForge
+  github: https://github.com/Rasagna8412/HackForge
 \033[33;4mVersion:\033[0m 4            \033[33;4mCTRL+C:\033[0m exit          \033[33;4mAuthor:\033[0m Rasagna
 '
 
