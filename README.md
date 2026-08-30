@@ -1,6 +1,6 @@
 # HackForge
 
-<img width="1478" height="670" alt="image" src="https://github.com/user-attachments/assets/11870082-8ded-4cc5-9964-333e798d201e" />
+<img width="1477" height="750" alt="image" src="https://github.com/user-attachments/assets/a094b9ae-8a67-4d3a-bc7d-c2e30a10f8d1" />
 
  Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
